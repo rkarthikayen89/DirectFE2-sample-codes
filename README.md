@@ -1,5 +1,6 @@
 # DirectFE2-sample-codes
 These files can help set up a Direct FE2 model in 2D in ABAQUS
+
 Description of files in the folder
 (1)micro_RVE_placement-lin_v2.py: 
 This script is used to generate another python script which places RVEs at the macroscale Gauss points
