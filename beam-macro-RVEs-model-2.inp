@@ -761,10 +761,10 @@
  265, 266, 267, 280, 281, 282, 283, 284, 289, 294, 299, 304
 ** Section: Section-1-MATRIX
 *Solid Section, elset=MATRIX, material=EPOXY-ELASTIC
-100.,
+25.,
 ** Section: Section-2-FIBRES
 *Solid Section, elset=FIBRES, material=CARBON-FIBRE-ISOTROPIC
-100.,
+25.,
 *End Part
 **  
 *Part, name=beam
